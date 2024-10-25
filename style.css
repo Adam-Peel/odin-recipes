@@ -6,3 +6,22 @@ h1 {
     background-color: black;
     color: bisque;
 }
+
+#index-button {
+    background-color: rgb(199, 209, 219);
+    font-size: 16px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+
+.description {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
